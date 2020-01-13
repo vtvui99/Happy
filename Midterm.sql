@@ -1,4 +1,4 @@
-﻿Loc*
+﻿VUI CUTE
 
 
 create database MIDTERM
