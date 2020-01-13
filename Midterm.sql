@@ -1,4 +1,5 @@
-﻿Loc
+﻿Loc*
+
 
 create database MIDTERM
 go
