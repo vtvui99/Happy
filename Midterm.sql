@@ -1,4 +1,6 @@
-﻿create database MIDTERM
+﻿Loc
+
+create database MIDTERM
 go
 use MIDTERM
 go
